@@ -1,0 +1,112 @@
+Number of Trials =      16384, MegaTrials/Second =   551.7241
+16	16384	551.724124
+
+Probability = 42.096 %
+Number of Trials =      16384, MegaTrials/Second =   571.4286
+32	16384	571.428564
+
+Probability = 42.645 %
+Number of Trials =      16384, MegaTrials/Second =   592.5926
+64	16384	592.592592
+
+Probability = 41.882 %
+Number of Trials =      16384, MegaTrials/Second =   592.5926
+128	16384	592.592592
+
+Probability = 42.175 %
+Number of Trials =      32768, MegaTrials/Second =   997.0789
+16	32768	997.078851
+
+Probability = 41.693 %
+Number of Trials =      32768, MegaTrials/Second =  1080.1688
+32	32768	1080.168775
+
+Probability = 42.133 %
+Number of Trials =      32768, MegaTrials/Second =  1082.4524
+64	32768	1082.452448
+
+Probability = 42.334 %
+Number of Trials =      32768, MegaTrials/Second =  1124.0395
+128	32768	1124.039505
+
+Probability = 41.965 %
+Number of Trials =      65536, MegaTrials/Second =  1823.6865
+16	65536	1823.686468
+
+Probability = 42.407 %
+Number of Trials =      65536, MegaTrials/Second =  1986.4209
+32	65536	1986.420853
+
+Probability = 41.983 %
+Number of Trials =      65536, MegaTrials/Second =  2140.0209
+64	65536	2140.020874
+
+Probability = 42.256 %
+Number of Trials =      65536, MegaTrials/Second =  2169.4915
+128	65536	2169.491460
+
+Probability = 41.843 %
+Number of Trials =     131072, MegaTrials/Second =  3079.6993
+16	131072	3079.699250
+
+Probability = 41.888 %
+Number of Trials =     131072, MegaTrials/Second =  3706.7872
+32	131072	3706.787223
+
+Probability = 42.073 %
+Number of Trials =     131072, MegaTrials/Second =  3500.8549
+64	131072	3500.854865
+
+Probability = 41.943 %
+Number of Trials =     131072, MegaTrials/Second =  4205.3387
+128	131072	4205.338705
+
+Probability = 42.284 %
+Number of Trials =     262144, MegaTrials/Second =  4681.1427
+16	262144	4681.142713
+
+Probability = 42.020 %
+Number of Trials =     262144, MegaTrials/Second =  6095.2381
+32	262144	6095.238144
+
+Probability = 42.027 %
+Number of Trials =     262144, MegaTrials/Second =  7111.1109
+64	262144	7111.110860
+
+Probability = 41.962 %
+Number of Trials =     262144, MegaTrials/Second =  7529.4116
+128	262144	7529.411633
+
+Probability = 42.068 %
+Number of Trials =     524288, MegaTrials/Second =  6001.4651
+16	524288	6001.465057
+
+Probability = 42.017 %
+Number of Trials =     524288, MegaTrials/Second =  8738.1335
+32	524288	8738.133529
+
+Probability = 42.048 %
+Number of Trials =     524288, MegaTrials/Second =  9272.2130
+64	524288	9272.213049
+
+Probability = 41.958 %
+Number of Trials =     524288, MegaTrials/Second = 11872.4635
+128	524288	11872.463505
+
+Probability = 41.976 %
+Number of Trials =    1048576, MegaTrials/Second =  7425.3345
+16	1048576	7425.334505
+
+Probability = 42.067 %
+Number of Trials =    1048576, MegaTrials/Second = 11959.1245
+32	1048576	11959.124485
+
+Probability = 42.056 %
+Number of Trials =    1048576, MegaTrials/Second = 16978.2381
+64	1048576	16978.238099
+
+Probability = 42.054 %
+Number of Trials =    1048576, MegaTrials/Second = 17066.6671
+128	1048576	17066.667098
+
+Probability = 41.970 %
